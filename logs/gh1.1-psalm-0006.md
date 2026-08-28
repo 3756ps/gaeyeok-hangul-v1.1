@@ -2,11 +2,11 @@
 
 **문서 번호:** gh1.1-psalm-0006 
 **프로젝트명:** 개역한글 1.1 (시편)
-**정체성:** 개역한글의 웅장한 운율을 계승한 완전 개방형 낭독용 표준역 (Modern Public Domain Version)[cite: 1, 2]  
-**라이선스:** CC0 1.0 Universal (퍼블릭 도메인)[cite: 1, 2]  
+**정체성:** 개역한글의 웅장한 운율을 계승한 완전 개방형 낭독용 표준역 (Modern Public Domain Version)
+**라이선스:** CC0 1.0 Universal (퍼블릭 도메인)
 **최종 승인 일자:** 2026-08-29 (v1.3 Final)  
-**기초 대본 (Base Text):** 개역한글 (1961, Public Domain)[cite: 1, 2]  
-**대조 검증 기준:** 히브리어 원문(BHS), 영문 WEB (World English Bible)[cite: 1, 2]  
+**기초 대본 (Base Text):** 개역한글 (1961, Public Domain)
+**대조 검증 기준:** 히브리어 원문(BHS), 영문 WEB (World English Bible)
 
 ---
 
