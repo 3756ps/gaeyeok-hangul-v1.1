@@ -1,6 +1,6 @@
 # [개역한글 v1.1] 시편 2편 승인 및 이력 관리 문서 (Psalm 2 Revision Log)
 
-**문서 번호:** gh1.1-psalm-0002.md
+**문서 번호:** gh1.1-psalm-0002
 **프로젝트명:** 개역한글 v1.1
 **정체성:** 개역한글의 웅장한 운율을 계승한 완전 개방형 낭독용 표준역 (Modern Public Domain Version)
 **라이선스:** CC0 1.0 Universal (퍼블릭 도메인)
