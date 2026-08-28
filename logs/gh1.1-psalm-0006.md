@@ -1,7 +1,7 @@
-# [Open K-WEB] 시편 6편 승인 및 이력 관리 문서 (Psalm 6 Revision Log v1.3 Final)
+# [개역한글 1.1] 시편 6편 승인 및 이력 관리 문서 (Psalm 6 Revision Log v1.3 Final)
 
-**문서 번호:** OKW-DOC-0006  
-**프로젝트명:** Open K-WEB (Korean World English Bible)  
+**문서 번호:** gh1.1-psalm-0006 
+**프로젝트명:** 개역한글 1.1 (시편)
 **정체성:** 개역한글의 웅장한 운율을 계승한 완전 개방형 낭독용 표준역 (Modern Public Domain Version)[cite: 1, 2]  
 **라이선스:** CC0 1.0 Universal (퍼블릭 도메인)[cite: 1, 2]  
 **최종 승인 일자:** 2026-08-29 (v1.3 Final)  
