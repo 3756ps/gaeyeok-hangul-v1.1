@@ -1,4 +1,4 @@
-# [개역한글 1.1] 시편 6편 승인 및 이력 관리 문서 (Psalm 6 Revision Log v1.3 Final)
+# [개역한글 v1.1] 시편 6편 승인 및 이력 관리 문서 (Psalm 6 Revision Log v1.3 Final)
 
 **문서 번호:** gh1.1-psalm-0006 
 **프로젝트명:** 개역한글 1.1 (시편)
